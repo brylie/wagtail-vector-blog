@@ -21,12 +21,12 @@
 				"bibhasdn.django-html",
 				"batisteo.vscode-django",
 				"shamanu4.django-intellisense",
-				"GitHub.copilot",
-				"GitHub.copilot-chat",
 				"ms-python.vscode-pylance",
 				"ms-python.python",
 				"ms-python.debugpy",
-				"charliermarsh.ruff"
+				"charliermarsh.ruff",
+				"GitHub.copilot",
+				"GitHub.copilot-chat"
 			]
 		}
 	}
