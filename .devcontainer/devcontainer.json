@@ -27,11 +27,15 @@
 				"charliermarsh.ruff",
 				"GitHub.copilot",
 				"GitHub.copilot-chat"
-			]
+			],
+			"settings": {
+				"editor.defaultFormatter": "charliermarsh.ruff",
+				"ruff.formatOnSave": true,
+				"ruff.formatOnPaste": true
+			}
 		}
 	}
-	// Configure tool-specific properties.
-	// "customizations": {},
-	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
-	// "remoteUser": "root"
+}
+// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
+// "remoteUser": "root"
 }
