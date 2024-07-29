@@ -1,0 +1,1855 @@
+[
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 1,
+  "fields": {
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "object_id": "3",
+    "title_norm": 1.3333333333333333,
+    "autocomplete": "'welcome':1",
+    "title": "'welcom':1B",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 7,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogindexpage"
+    ],
+    "object_id": "4",
+    "title_norm": 2.0,
+    "autocomplete": "'blog':1",
+    "title": "'blog':1B",
+    "body": ""
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 18,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "object_id": "7",
+    "title_norm": 0.8,
+    "autocomplete": "'a':3 'framework':5 'is':2 'web':4 'what':1",
+    "title": "'framework':5B 'web':4B",
+    "body": "'abstract':86 'addit':263,412 'advantag':550 'aid':114 'allow':89,140,257 'also':387,544 'amount':375 'angular':288,540 'applic':48,59,99,133,221,230,252,277,316,424,447,495,512,584,647 'approach':483 'appropri':129 'architectur':536 'aspect':96 'autom':84 'back':217,340 'back-end':339 'base':134,535 'basic':251 'batteri':481 'batteries-includ':480 'becom':522 'benefit':343,355,592 'best':399 'boilerpl':377 'box':170 'build':55,228,294,526 'built':368,419 'built-in':418 'case':457 'cater':189 'choic':488,634 'choos':262,598 'client':283,326,518,627 'client-sid':282,325,626 'code':378,402 'codebas':411 'come':185,416 'common':67,426 'complex':229,491 'compon':101,112,166,264,369,515,534,589 'component-bas':533 'comprehens':207 'conclus':557 'core':33,100,111,588 'creat':444 'creation':310,581 'cross':434 'cross-sit':433 'custom':281,514 'databas':74,148,161,493 'database-driven':492 'deploy':57 'design':41 'develop':8,30,45,61,81,90,117,174,192,258,362,379,396,442,490,570,596,613,639 'differ':191 'direct':124 'django':200,473,623 'dom':539 'driven':494 'due':464,530 'dynam':142,295,527 'eas':470 'effect':611 'effici':609 'effort':178,450 'enabl':308 'encompass':121 'encourag':395 'end':215,218,304,341 'enhanc':637 'essenti':76,165,246 'everyth':225 'evolv':4 'exact':17 'excel':487 'experi':333 'favorit':524 'featur':422,468 'final':646 'first':356 'flask':237,497 'flavor':188 'flexibl':504 'focus':92,292 'follow':398 'foremost':358 'foundat':53 'framework':12,21,36,40,78,105,107,172,182,184,197,223,235,271,285,299,324,328,348,352,386,415,453,460,562,595,621,629 'frequent':13 'front':214,303 'front-end':302 'full':195,319,619 'full-stack':194,318,618 'gain':462 'generat':143 'get':249 'hand':501 'handl':66,330 'html':145 'ideal':272 'includ':109,482 'indispens':565 'inject':431 'instanc':475 'interact':75,149,314 'interfac':297,529 'known':477 'lead':405,606 'less':449 'leverag':438 'librari':64,576 'lightweight':242 'like':236,622,630 'logic':305 'maintain':384,408 'make':268,484 'manag':300 'mani':413 'measur':441 'micro':234,270,323 'micro-framework':233,269,322 'modern':28,568 'need':193,226,266,380,577,605 'numer':354 'offer':60,205,244,353,502,548 'often':120,334 'one':601 'opt':615 'organ':391 'page':146 'part':130 'pick':260 'pivot':26 'popular':451,463 'practic':400 'pre':367 'pre-built':366 'prefer':507 'primarili':329 'process':82,118,153,363,640 'project':275,394,510,604 'protect':423 'provid':50,163,224,365,388,571 'qualiti':643 'quick':496 'rail':204 'rapid':3 'react':289,520,631 'read':155 'reduc':373 'repetit':87 'requir':247,279,513 'respons':312 'right':600,633 'robust':467 'rout':71,122 'rubi':202 'run':255 'save':173 'scalabl':410 'scratch':232 'script':436 'secur':421,440,446 'servic':342 'set':208 'sever':110,458 'side':284,327,519,628 'signific':175,636 'simplic':556 'simplifi':43,151,360 'sinatra':239 'site':435 'smaller':274,509 'softwar':39 'sql':430 'stack':196,320,620 'standard':403 'state':307 'streamlin':79,579 'structur':52,389,554,573 'summari':559 'surfac':14 'tandem':337 'task':68,88 'templat':72,138 'term':10,552 'time':176 'tool':62,210,371,566,574 'traffic':126 'type':179,590 'typic':108 'understand':586 'uniqu':95,549 'unlik':317 'url':137 'use':345,349,456,472,546 'user':296,332,528 'various':187 'virtual':538 'vue':291,542 'vulner':427 'web':7,11,20,29,35,47,58,77,104,106,125,171,181,183,220,315,347,351,385,414,452,459,561,569,583,594,612 'whether':614 'wide':545 'work':335 'world':5 'write':158,382"
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 21,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "object_id": "8",
+    "title_norm": 0.5,
+    "autocomplete": "'a':4 'as':3 'django':2 'framework':6 'understanding':1 'web':5",
+    "title": "'django':2B 'framework':6B 'understand':1B 'web':5B",
+    "body": "'2003':20 '2005':37 'abil':149 'access':199 'activ':194 'addit':121 'admin':98 'advantag':139 'allow':73 'applic':110,166,179,226,252,300 'architectur':59 'authent':125 'author':127 'becom':41 'blog':295 'box':106 'build':214,292 'built':96,231 'built-in':95 'candid':282 'capabl':243 'case':208 'clean':15 'clear':63 'code':82 'commerc':221 'common':206 'communiti':195,277 'complet':170 'complex':298 'comprehens':124,273 'concept':168 'concern':66 'conclus':253 'content':118,216 'content-heavi':117,215 'core':43 'data':88,111,185 'databas':79 'design':9,17,161 'develop':13,18,74,153,164,201,265,289 'django':1,32,46,51,93,122,142,143,189,210,211,233,254,301 'document':192 'e':220 'e-commerc':219 'ecosystem':274 'enabl':151 'ensur':177 'exampl':228 'excel':212 'extens':191 'facilit':11 'featur':44,250,269 'feature-rich':249 'framework':8,133,262 'furthermor':188 'grace':187 'handl':181 'heart':49 'heavi':119,217 'help':163 'high':5,156,247 'high-level':4 'high-traff':246 'includ':123,234 'increas':182 'instagram':235 'instead':83 'interact':76 'interfac':99 'journal':29 'journal-world':28 'lawrenc':27 'level':6,205 'lie':146 'maintain':155 'make':112,197,278 'manag':109 'manipul':89 'map':72 'media':225 'middlewar':132 'migrat':91 'model':56 'model-view-templ':55 'mvt':54 'need':307 'newspap':31 'notabl':227 'object':70 'object-rel':69 'offer':267 'one':42 'orm':68 'out-of-the-box':102 'particular':114 'pinterest':236 'platform':222 'possibl':174 'post':240 'power':259 'pragmat':16 'process':135 'project':290 'promot':61 'provid':100,302 'public':35 'python':81 'queri':86 'quick':172 'rang':286 'rapid':12,152 'relat':71 'releas':34 'request':136 'respons':138 'rich':251 'robust':131,268 'scalabl':176 'secur':157,271 'separ':64 'showcas':241 'simpl':294 'simplifi':87,264 'sinc':40 'site':120 'skill':204 'social':224 'solut':107 'sql':85 'stand':255 'standard':158 'strength':145 'strong':281 'structur':306 'success':309 'support':196,245,276 'system':128 'take':165 'task':92 'team':24 'templat':58 'tool':304 'traffic':183,248 'use':80,115,141,207 'versatil':260 'view':57 'volum':186 'washington':239 'web':7,23,261,288,299 'websit':218,230 'whether':291 'wide':285 'world':30"
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 26,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "object_id": "9",
+    "title_norm": 0.4,
+    "autocomplete": "'and':4,9 'comparing':1 'django':6 'frameworks':3 'libraries':5 'react':8 'vs':7 'vue':10 'web':2",
+    "title": "'compar':1B 'django':6B 'framework':3B 'librari':5B 'react':8B 'vs':7B 'vue':10B 'web':2B",
+    "body": "'addit':207,381 'allow':152 'among':15 'applic':14,60,104,123,183,234,353,441 'architectur':69,151,243 'aspect':214 'authent':86,205 'author':87 'backend':126,300,344,391,412 'base':150,242 'batteri':92 'batteries-includ':91 'box':274 'build':10,100,142,227,351,439 'built':49,198 'built-in':48,197 'cach':89 'capabl':127,413 'chang':174 'choic':24,418 'choos':5,394 'come':71 'commerc':119 'complet':348 'complex':122 'compon':149,158,171,241 'component-bas':148,240 'comprehens':55,440 'conclus':393 'content':114 'content-heavi':113 'contrast':355 'creat':155,247,367 'data':173,388 'databas':81 'depend':400 'design':225 'develop':2,58,96,98,133,153,306,345,409 'differ':27 'distinct':308,311 'django':18,29,36,106,313,324,396,414 'dynam':179,248,420 'e':118 'e-commerc':117 'eas':258 'effici':11,167 'employ':238 'enabl':97 'end':297 'excel':245,417 'facebook':135 'featur':51,94,200,275,338 'flexibl':429 'focus':140,292,365 'follow':62 'framework':35,44,210,218,224,331,364,384 'front':296 'frontend':342 'full':32,190,304,328,407 'full-stack':31,189,303,327,406 'handl':160,212,372,389 'heavi':115 'high':40 'high-level':39 'howev':184 'ideal':177 'includ':46,93,196,333 'integr':260,434 'interact':82,181 'interfac':144,229,370,423 'involv':4 'javascript':138,223 'key':307,310 'layer':163,376 'level':41 'librari':131,139,208,265,315,362 'lie':320 'like':201,235,316 'logic':392 'make':52,175 'manag':284,386 'map':78 'model':65 'model-view-templ':64 'mvt':68 'necessari':339 'necessit':377 'numer':47 'object':76 'object-rel':75 'offer':427 'often':3 'orm':74,203 'out-of-the-box':270 'page':233 'particular':108 'platform':120 'popular':23 'power':428 'prais':253 'primarili':293,360 'progress':217,222 'project':263,403 'provid':268,346 'purpos':28 'python':42 'rang':336 'rapid':105 'react':19,128,132,159,185,236,277,317,356,397,424 'reactiv':249 'relat':77 'render':84,170 'requir':124,206,299,404 'respons':421 'reusabl':156 'rich':368 'right':7 'robust':125,411 'rout':85,202,387 'router':281,287 'scalabl':13,103 'scope':323 'secur':101 'serv':26 'simplic':256 'singl':232 'single-pag':231 'solut':56,192,301,430 'stack':33,191,305,329,408 'state':283 'still':291 'streamlin':95 'suit':111 'system':79 'templat':67,83 'tool':8,17,382,437 'toolkit':349 'ui':130,157,250 'ui/dom':361 'updat':168 'use':146,379 'user':143,228,369,422 'via':285 'view':66,162,375 'vue':21,215,219,237,251,286,319,358,399,426 'vuex':289 'web':1,34,43,59,182,330,352 'websit':116 'well':110 'well-suit':109 'wide':335 'work':165"
+  }
+},
+{
+  "model": "wagtailsearch.indexentry",
+  "pk": 29,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "object_id": "10",
+    "title_norm": 1.5,
+    "autocomplete": "'a':3 'database':5 'is':2 'vector':4 'what':1",
+    "title": "'databas':5B 'vector':4B",
+    "body": "'abil':587 'accuraci':557 'across':288 'adapt':413 'add':462 'addit':544 'advanc':8,175,572 'advantag':358,366 'ai':474 'also':400 'analysi':302 'analyt':498 'analyz':433 'applic':160,276,287,397,427,565,599 'audio':71,352 'base':345,561 'becom':21 'big':5,395,628 'capabl':36,455 'captur':86 'care':559 'case':279,510 'challeng':514,527 'choic':546 'closest':150 'cluster':481 'column':229 'come':31,521 'compar':192,260,307,322 'complex':65,535 'concept':41 'conclus':566 'consider':516,560 'consist':532 'context':112 'continu':611 'contrast':219 'core':40 'cosin':213 'crucial':158,424,621 'data':6,17,60,66,92,232,241,396,412,416,435,529,543,574,593,629 'databas':30,39,44,50,114,130,140,170,173,191,223,234,247,266,281,361,369,399,442,447,491,520,568,615 'dataset':377 'dens':483 'deriv':63 'design':380,492 'detect':355 'develop':471 'differ':508 'dimension':83,121,542,592 'distanc':217 'divers':434 'done':209 'dynam':409,538 'effici':14,124,182,385,477,580 'embed':54,77,78,262,309,348 'enabl':123 'encapsul':108 'encod':325 'ensur':528 'era':3 'especi':536 'essenti':80 'euclidean':216 'even':386 'ever':25 'evolv':613 'exact':134 'exampl':244 'excel':141,402 'extens':458 'facebook':473 'facilit':179 'faiss':468 'fast':180 'featur':324,505 'field':290,350,610 'find':148,201,252,334 'flexibl':405,422 'focus':235 'fraud':354 'gain':451 'geometr':238 'given':154,257,341 'handl':375,408,589 'har':624 'heart':47 'help':314 'high':82,120,372,541,591 'high-dimension':81,119,540,590 'ideal':393 'identifi':316 'imag':69,162,253,258,310,318,602 'impact':554 'implement':517 'includ':351 'increas':620 'index':176,548 'indispens':596 'instanc':94 'item':337,344 'known':75 'languag':97,292,304 'larg':376 'learn':10,632 'librari':470 'like':67,161,212,298,617 'machin':9,631 'made':189 'make':391,594 'manag':117 'manipul':127 'match':135,151 'mean':89,110 'metadata':269 'metric':211,551 'might':248 'million':388 'milvus':485 'modern':426,598 'natur':96,291 'need':12,429 'nlp':99,294,601 'numer':57 'offer':34,401,578 'often':62 'one':205,362 'open':488 'open-sourc':487 'organ':231 'pattern':420 'perform':373,382,512,555,582 'person':331 'pgvector':456 'phrase':102 'play':33,618 'point':61,242 'popular':440,452 'postgresql':460 'power':16,626 'press':23 'primari':365 'process':74,98,293,431 'provid':330 'qualiti':530 'queri':138,187,194 'quick':147 'rang':285 'real':438 'recognit':163,313,353,603 'recommend':164,328,332,604 'relat':222,265 'relationship':239 'reli':132 'repres':569 'represent':58 'requir':268,513,558 'research':475 'retriev':18,125,577 'role':622 'row':227 'scalabl':403,494 'search':144,184,275,300,384,467,479,496,585 'semant':88,299 'sentiment':301 'set':525 'sever':445 'signific':553,571 'similar':143,183,204,214,254,317,338,383,466,478,495,550,584 'sourc':436,489 'specif':564 'storag':575 'store':115,198 'structur':137 'support':463 'system':19,165,329,605 'tabl':226 'tag':271 'tailor':506 'task':297 'techniqu':177 'text':68,308 'time':439 'tool':444,449,502 'tradit':38,129,221 'transform':104 'translat':305 'type':417 'typic':208 'uniqu':35,504 'unlik':128 'unparallel':579 'unstructur':411 'usag':419 'use':174,210,225,250,278,295,509 'user':335,342 'various':289,415 'vector':29,43,49,52,55,84,106,113,122,139,155,169,172,195,199,233,246,280,327,360,368,390,398,441,446,465,484,490,519,567,614 'video':312,320 'visual':323 'wherea':263 'wide':284 'word':100 'work':171 'would':267"
+  }
+},
+{
+  "model": "wagtailcore.locale",
+  "pk": 1,
+  "fields": {
+    "language_code": "en"
+  }
+},
+{
+  "model": "wagtailcore.site",
+  "pk": 2,
+  "fields": {
+    "hostname": "localhost",
+    "port": 80,
+    "site_name": "",
+    "root_page": 3,
+    "is_default_site": true
+  }
+},
+{
+  "model": "wagtailcore.collection",
+  "pk": 1,
+  "fields": {
+    "path": "0001",
+    "depth": 1,
+    "numchild": 0,
+    "name": "Root"
+  }
+},
+{
+  "model": "wagtailcore.workflowpage",
+  "pk": 1,
+  "fields": {
+    "workflow": 1
+  }
+},
+{
+  "model": "wagtailcore.workflowtask",
+  "pk": 1,
+  "fields": {
+    "sort_order": 0,
+    "workflow": 1,
+    "task": 1
+  }
+},
+{
+  "model": "wagtailcore.task",
+  "pk": 1,
+  "fields": {
+    "name": "Moderators approval",
+    "content_type": [
+      "wagtailcore",
+      "groupapprovaltask"
+    ],
+    "active": true
+  }
+},
+{
+  "model": "wagtailcore.workflow",
+  "pk": 1,
+  "fields": {
+    "name": "Moderators approval",
+    "active": true
+  }
+},
+{
+  "model": "auth.group",
+  "pk": 1,
+  "fields": {
+    "name": "Moderators",
+    "permissions": [
+      [
+        "access_admin",
+        "wagtailadmin",
+        "admin"
+      ],
+      [
+        "add_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "change_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "choose_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "delete_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "add_image",
+        "wagtailimages",
+        "image"
+      ],
+      [
+        "change_image",
+        "wagtailimages",
+        "image"
+      ],
+      [
+        "choose_image",
+        "wagtailimages",
+        "image"
+      ],
+      [
+        "delete_image",
+        "wagtailimages",
+        "image"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.group",
+  "pk": 2,
+  "fields": {
+    "name": "Editors",
+    "permissions": [
+      [
+        "access_admin",
+        "wagtailadmin",
+        "admin"
+      ],
+      [
+        "add_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "change_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "choose_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "delete_document",
+        "wagtaildocs",
+        "document"
+      ],
+      [
+        "add_image",
+        "wagtailimages",
+        "image"
+      ],
+      [
+        "change_image",
+        "wagtailimages",
+        "image"
+      ],
+      [
+        "choose_image",
+        "wagtailimages",
+        "image"
+      ],
+      [
+        "delete_image",
+        "wagtailimages",
+        "image"
+      ]
+    ]
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$720000$OJDzgwZnKoL36GjGb1dlic$S9uR8oGTsMyULKNY//WIi9SdfVxPCif/OmYK2RO+TGg=",
+    "last_login": "2024-07-28T16:59:45.710Z",
+    "is_superuser": true,
+    "username": "brylie",
+    "first_name": "",
+    "last_name": "",
+    "email": "test@email.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-07-28T16:58:47.480Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "wagtailcore.pagesubscription",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "brylie"
+    ],
+    "page": 3,
+    "comment_notifications": false
+  }
+},
+{
+  "model": "wagtailcore.pagesubscription",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "brylie"
+    ],
+    "page": 4,
+    "comment_notifications": true
+  }
+},
+{
+  "model": "wagtailcore.pagesubscription",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "brylie"
+    ],
+    "page": 7,
+    "comment_notifications": true
+  }
+},
+{
+  "model": "wagtailcore.pagesubscription",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "brylie"
+    ],
+    "page": 8,
+    "comment_notifications": true
+  }
+},
+{
+  "model": "wagtailcore.pagesubscription",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "brylie"
+    ],
+    "page": 9,
+    "comment_notifications": true
+  }
+},
+{
+  "model": "wagtailcore.pagesubscription",
+  "pk": 8,
+  "fields": {
+    "user": [
+      "brylie"
+    ],
+    "page": 10,
+    "comment_notifications": true
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 1,
+  "fields": {
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "label": "Home",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2024-07-28T17:02:03.880Z",
+    "uuid": "5bc56729-b44a-434f-9a2f-f08843aed35d",
+    "user": [
+      "brylie"
+    ],
+    "revision": 1,
+    "content_changed": true,
+    "deleted": false,
+    "page": 3
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 2,
+  "fields": {
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "label": "Home",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2024-07-28T17:02:03.906Z",
+    "uuid": "5bc56729-b44a-434f-9a2f-f08843aed35d",
+    "user": [
+      "brylie"
+    ],
+    "revision": 1,
+    "content_changed": true,
+    "deleted": false,
+    "page": 3
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 3,
+  "fields": {
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "label": "Home",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2024-07-28T17:04:41.241Z",
+    "uuid": "97af6abc-0c4f-47bc-8be5-eefc42e9b4be",
+    "user": [
+      "brylie"
+    ],
+    "revision": 2,
+    "content_changed": true,
+    "deleted": false,
+    "page": 3
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 4,
+  "fields": {
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "label": "Home",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2024-07-28T17:04:41.260Z",
+    "uuid": "97af6abc-0c4f-47bc-8be5-eefc42e9b4be",
+    "user": [
+      "brylie"
+    ],
+    "revision": 2,
+    "content_changed": true,
+    "deleted": false,
+    "page": 3
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 5,
+  "fields": {
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "label": "Home",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2024-07-28T17:05:41.128Z",
+    "uuid": "edfac057-cfd5-4201-9150-eb0cb7edf9ae",
+    "user": [
+      "brylie"
+    ],
+    "revision": 3,
+    "content_changed": true,
+    "deleted": false,
+    "page": 3
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 6,
+  "fields": {
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "label": "Welcome",
+    "action": "wagtail.rename",
+    "data": {
+      "title": {
+        "new": "Welcome",
+        "old": "Home"
+      }
+    },
+    "timestamp": "2024-07-28T17:05:41.152Z",
+    "uuid": "edfac057-cfd5-4201-9150-eb0cb7edf9ae",
+    "user": [
+      "brylie"
+    ],
+    "revision": 3,
+    "content_changed": false,
+    "deleted": false,
+    "page": 3
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 7,
+  "fields": {
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "label": "Welcome",
+    "action": "wagtail.publish",
+    "data": {
+      "title": {
+        "new": "Welcome",
+        "old": "Home"
+      }
+    },
+    "timestamp": "2024-07-28T17:05:41.156Z",
+    "uuid": "edfac057-cfd5-4201-9150-eb0cb7edf9ae",
+    "user": [
+      "brylie"
+    ],
+    "revision": 3,
+    "content_changed": true,
+    "deleted": false,
+    "page": 3
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 8,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogindexpage"
+    ],
+    "label": "Blog",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2024-07-28T17:16:28.047Z",
+    "uuid": "d1d9f3ae-8ddc-4c69-b4f6-e24a1fb012a8",
+    "user": [
+      "brylie"
+    ],
+    "revision": null,
+    "content_changed": true,
+    "deleted": false,
+    "page": 4
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 9,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogindexpage"
+    ],
+    "label": "Blog",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2024-07-28T17:16:28.059Z",
+    "uuid": "d1d9f3ae-8ddc-4c69-b4f6-e24a1fb012a8",
+    "user": [
+      "brylie"
+    ],
+    "revision": 4,
+    "content_changed": true,
+    "deleted": false,
+    "page": 4
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 10,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogindexpage"
+    ],
+    "label": "Blog",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2024-07-28T17:16:28.086Z",
+    "uuid": "d1d9f3ae-8ddc-4c69-b4f6-e24a1fb012a8",
+    "user": [
+      "brylie"
+    ],
+    "revision": 4,
+    "content_changed": true,
+    "deleted": false,
+    "page": 4
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 11,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "A new blog!",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2024-07-28T17:17:04.720Z",
+    "uuid": "f554076f-9159-4269-b61d-a906e087959d",
+    "user": [
+      "brylie"
+    ],
+    "revision": null,
+    "content_changed": true,
+    "deleted": false,
+    "page": 5
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 12,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "A new blog!",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2024-07-28T17:17:04.736Z",
+    "uuid": "f554076f-9159-4269-b61d-a906e087959d",
+    "user": [
+      "brylie"
+    ],
+    "revision": 5,
+    "content_changed": true,
+    "deleted": false,
+    "page": 5
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 13,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "A new blog!",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2024-07-28T17:17:04.758Z",
+    "uuid": "f554076f-9159-4269-b61d-a906e087959d",
+    "user": [
+      "brylie"
+    ],
+    "revision": 5,
+    "content_changed": true,
+    "deleted": false,
+    "page": 5
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 14,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "A new blog!",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2024-07-28T17:20:45.301Z",
+    "uuid": "aee2b529-7cc8-4dcb-9d1c-30eee37c9e7d",
+    "user": [
+      "brylie"
+    ],
+    "revision": 6,
+    "content_changed": true,
+    "deleted": false,
+    "page": 5
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 15,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "A new blog!",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2024-07-28T17:20:45.321Z",
+    "uuid": "aee2b529-7cc8-4dcb-9d1c-30eee37c9e7d",
+    "user": [
+      "brylie"
+    ],
+    "revision": 6,
+    "content_changed": true,
+    "deleted": false,
+    "page": 5
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 16,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "Newer post",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2024-07-28T17:21:05.138Z",
+    "uuid": "63e99cb9-a148-4018-a08e-8520f01fab87",
+    "user": [
+      "brylie"
+    ],
+    "revision": null,
+    "content_changed": true,
+    "deleted": false,
+    "page": 6
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 17,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "Newer post",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2024-07-28T17:21:05.150Z",
+    "uuid": "63e99cb9-a148-4018-a08e-8520f01fab87",
+    "user": [
+      "brylie"
+    ],
+    "revision": 7,
+    "content_changed": true,
+    "deleted": false,
+    "page": 6
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 18,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "Newer post",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2024-07-28T17:21:05.173Z",
+    "uuid": "63e99cb9-a148-4018-a08e-8520f01fab87",
+    "user": [
+      "brylie"
+    ],
+    "revision": 7,
+    "content_changed": true,
+    "deleted": false,
+    "page": 6
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 19,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "What is a Web Framework?",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2024-07-29T00:12:55.274Z",
+    "uuid": "82cb3c3a-3f31-4738-9a22-0cee33fdafdc",
+    "user": [
+      "brylie"
+    ],
+    "revision": null,
+    "content_changed": true,
+    "deleted": false,
+    "page": 7
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 20,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "What is a Web Framework?",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2024-07-29T00:12:55.292Z",
+    "uuid": "82cb3c3a-3f31-4738-9a22-0cee33fdafdc",
+    "user": [
+      "brylie"
+    ],
+    "revision": 8,
+    "content_changed": true,
+    "deleted": false,
+    "page": 7
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 21,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "What is a Web Framework?",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2024-07-29T00:12:55.319Z",
+    "uuid": "82cb3c3a-3f31-4738-9a22-0cee33fdafdc",
+    "user": [
+      "brylie"
+    ],
+    "revision": 8,
+    "content_changed": true,
+    "deleted": false,
+    "page": 7
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 22,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "Understanding Django as a Web Framework",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2024-07-29T00:27:02.375Z",
+    "uuid": "6876940e-9a1e-4e48-9790-feb16ed464f5",
+    "user": [
+      "brylie"
+    ],
+    "revision": null,
+    "content_changed": true,
+    "deleted": false,
+    "page": 8
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 23,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "Understanding Django as a Web Framework",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2024-07-29T00:27:02.389Z",
+    "uuid": "6876940e-9a1e-4e48-9790-feb16ed464f5",
+    "user": [
+      "brylie"
+    ],
+    "revision": 9,
+    "content_changed": true,
+    "deleted": false,
+    "page": 8
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 24,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "Understanding Django as a Web Framework",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2024-07-29T00:27:02.410Z",
+    "uuid": "6876940e-9a1e-4e48-9790-feb16ed464f5",
+    "user": [
+      "brylie"
+    ],
+    "revision": 9,
+    "content_changed": true,
+    "deleted": false,
+    "page": 8
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 25,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "Newer post",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2024-07-29T00:27:10.314Z",
+    "uuid": "4d0028c2-8013-414c-939f-bee1314f1665",
+    "user": [
+      "brylie"
+    ],
+    "revision": null,
+    "content_changed": false,
+    "deleted": true,
+    "page": 6
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 26,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "A new blog!",
+    "action": "wagtail.delete",
+    "data": {},
+    "timestamp": "2024-07-29T00:27:16.493Z",
+    "uuid": "45461524-a1e5-4054-84e6-475f12bf2119",
+    "user": [
+      "brylie"
+    ],
+    "revision": null,
+    "content_changed": false,
+    "deleted": true,
+    "page": 5
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 27,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "Comparing Web Frameworks and Libraries: Django vs. React and Vue",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2024-07-29T00:33:26.187Z",
+    "uuid": "39fa0419-5a84-46ff-9f03-4ec1ef7c2f78",
+    "user": [
+      "brylie"
+    ],
+    "revision": null,
+    "content_changed": true,
+    "deleted": false,
+    "page": 9
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 28,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "Comparing Web Frameworks and Libraries: Django vs. React and Vue",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2024-07-29T00:33:26.203Z",
+    "uuid": "39fa0419-5a84-46ff-9f03-4ec1ef7c2f78",
+    "user": [
+      "brylie"
+    ],
+    "revision": 10,
+    "content_changed": true,
+    "deleted": false,
+    "page": 9
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 29,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "Comparing Web Frameworks and Libraries: Django vs. React and Vue",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2024-07-29T00:33:26.227Z",
+    "uuid": "39fa0419-5a84-46ff-9f03-4ec1ef7c2f78",
+    "user": [
+      "brylie"
+    ],
+    "revision": 10,
+    "content_changed": true,
+    "deleted": false,
+    "page": 9
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 30,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "What is a Vector Database?",
+    "action": "wagtail.create",
+    "data": {},
+    "timestamp": "2024-07-29T00:41:36.457Z",
+    "uuid": "829cb9b7-64d4-4d5f-b06f-9a604e32d406",
+    "user": [
+      "brylie"
+    ],
+    "revision": null,
+    "content_changed": true,
+    "deleted": false,
+    "page": 10
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 31,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "What is a Vector Database?",
+    "action": "wagtail.edit",
+    "data": {},
+    "timestamp": "2024-07-29T00:41:36.472Z",
+    "uuid": "829cb9b7-64d4-4d5f-b06f-9a604e32d406",
+    "user": [
+      "brylie"
+    ],
+    "revision": 11,
+    "content_changed": true,
+    "deleted": false,
+    "page": 10
+  }
+},
+{
+  "model": "wagtailcore.pagelogentry",
+  "pk": 32,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "label": "What is a Vector Database?",
+    "action": "wagtail.publish",
+    "data": {},
+    "timestamp": "2024-07-29T00:41:36.494Z",
+    "uuid": "829cb9b7-64d4-4d5f-b06f-9a604e32d406",
+    "user": [
+      "brylie"
+    ],
+    "revision": 11,
+    "content_changed": true,
+    "deleted": false,
+    "page": 10
+  }
+},
+{
+  "model": "wagtailcore.groupapprovaltask",
+  "pk": 1,
+  "fields": {
+    "groups": [
+      [
+        "Moderators"
+      ]
+    ]
+  }
+},
+{
+  "model": "wagtailcore.revision",
+  "pk": 1,
+  "fields": {
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "base_content_type": [
+      "wagtailcore",
+      "page"
+    ],
+    "object_id": "3",
+    "created_at": "2024-07-28T17:02:03.870Z",
+    "user": [
+      "brylie"
+    ],
+    "object_str": "Home",
+    "content": {
+      "pk": 3,
+      "body": "<p data-block-key=\"e2wy8\">Hello world, from the home page!</p>",
+      "live": true,
+      "path": "00010001",
+      "slug": "home",
+      "depth": 2,
+      "owner": null,
+      "title": "Home",
+      "locale": 1,
+      "locked": false,
+      "expired": false,
+      "alias_of": null,
+      "numchild": 0,
+      "url_path": "/home/",
+      "expire_at": null,
+      "locked_at": null,
+      "locked_by": null,
+      "seo_title": "",
+      "go_live_at": null,
+      "draft_title": "Home",
+      "content_type": 2,
+      "live_revision": null,
+      "show_in_menus": false,
+      "latest_revision": null,
+      "translation_key": "1109c2c6-6ed5-4a0a-af59-d60b30121d0d",
+      "last_published_at": null,
+      "first_published_at": null,
+      "search_description": "",
+      "wagtail_admin_comments": [],
+      "has_unpublished_changes": false,
+      "latest_revision_created_at": null
+    },
+    "approved_go_live_at": null
+  }
+},
+{
+  "model": "wagtailcore.revision",
+  "pk": 2,
+  "fields": {
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "base_content_type": [
+      "wagtailcore",
+      "page"
+    ],
+    "object_id": "3",
+    "created_at": "2024-07-28T17:04:41.230Z",
+    "user": [
+      "brylie"
+    ],
+    "object_str": "Home",
+    "content": {
+      "pk": 3,
+      "body": "<h2 data-block-key=\"e2wy8\">Moi!</h2><p data-block-key=\"5cpad\">Hello world, from the home page!</p>",
+      "live": true,
+      "path": "00010001",
+      "slug": "home",
+      "depth": 2,
+      "owner": null,
+      "title": "Home",
+      "locale": 1,
+      "locked": false,
+      "expired": false,
+      "alias_of": null,
+      "numchild": 0,
+      "url_path": "/home/",
+      "expire_at": null,
+      "locked_at": null,
+      "locked_by": null,
+      "seo_title": "",
+      "go_live_at": null,
+      "draft_title": "Home",
+      "content_type": 2,
+      "live_revision": 1,
+      "show_in_menus": false,
+      "latest_revision": 1,
+      "translation_key": "1109c2c6-6ed5-4a0a-af59-d60b30121d0d",
+      "last_published_at": "2024-07-28T17:02:03.888Z",
+      "first_published_at": "2024-07-28T17:02:03.888Z",
+      "search_description": "",
+      "wagtail_admin_comments": [],
+      "has_unpublished_changes": false,
+      "latest_revision_created_at": "2024-07-28T17:02:03.870Z"
+    },
+    "approved_go_live_at": null
+  }
+},
+{
+  "model": "wagtailcore.revision",
+  "pk": 3,
+  "fields": {
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "base_content_type": [
+      "wagtailcore",
+      "page"
+    ],
+    "object_id": "3",
+    "created_at": "2024-07-28T17:05:41.119Z",
+    "user": [
+      "brylie"
+    ],
+    "object_str": "Welcome",
+    "content": {
+      "pk": 3,
+      "body": "<h2 data-block-key=\"e2wy8\">Moi!</h2><p data-block-key=\"5cpad\">Hello world, from the home page!</p>",
+      "live": true,
+      "path": "00010001",
+      "slug": "home",
+      "depth": 2,
+      "owner": null,
+      "title": "Welcome",
+      "locale": 1,
+      "locked": false,
+      "expired": false,
+      "alias_of": null,
+      "numchild": 0,
+      "url_path": "/home/",
+      "expire_at": null,
+      "locked_at": null,
+      "locked_by": null,
+      "seo_title": "",
+      "go_live_at": null,
+      "draft_title": "Home",
+      "content_type": 2,
+      "live_revision": 2,
+      "show_in_menus": false,
+      "latest_revision": 2,
+      "translation_key": "1109c2c6-6ed5-4a0a-af59-d60b30121d0d",
+      "last_published_at": "2024-07-28T17:04:41.246Z",
+      "first_published_at": "2024-07-28T17:02:03.888Z",
+      "search_description": "",
+      "wagtail_admin_comments": [],
+      "has_unpublished_changes": false,
+      "latest_revision_created_at": "2024-07-28T17:04:41.230Z"
+    },
+    "approved_go_live_at": null
+  }
+},
+{
+  "model": "wagtailcore.revision",
+  "pk": 4,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogindexpage"
+    ],
+    "base_content_type": [
+      "wagtailcore",
+      "page"
+    ],
+    "object_id": "4",
+    "created_at": "2024-07-28T17:16:28.052Z",
+    "user": [
+      "brylie"
+    ],
+    "object_str": "Blog",
+    "content": {
+      "pk": 4,
+      "live": true,
+      "path": "000100010001",
+      "slug": "blog",
+      "depth": 3,
+      "intro": "<p data-block-key=\"zbjjq\">Welcome to the blog.</p>",
+      "owner": 1,
+      "title": "Blog",
+      "locale": 1,
+      "locked": false,
+      "expired": false,
+      "alias_of": null,
+      "numchild": 0,
+      "url_path": "/home/blog/",
+      "expire_at": null,
+      "locked_at": null,
+      "locked_by": null,
+      "seo_title": "",
+      "go_live_at": null,
+      "draft_title": "Blog",
+      "content_type": 43,
+      "live_revision": null,
+      "show_in_menus": false,
+      "latest_revision": null,
+      "translation_key": "92090ed6-1752-46d8-b6dc-47df917f7e03",
+      "last_published_at": null,
+      "first_published_at": null,
+      "search_description": "",
+      "wagtail_admin_comments": [],
+      "has_unpublished_changes": false,
+      "latest_revision_created_at": null
+    },
+    "approved_go_live_at": null
+  }
+},
+{
+  "model": "wagtailcore.revision",
+  "pk": 8,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "base_content_type": [
+      "wagtailcore",
+      "page"
+    ],
+    "object_id": "7",
+    "created_at": "2024-07-29T00:12:55.283Z",
+    "user": [
+      "brylie"
+    ],
+    "object_str": "What is a Web Framework?",
+    "content": {
+      "pk": 7,
+      "body": "<p data-block-key=\"n8qnx\">At its core, a web framework is a software framework designed to simplify the development of web applications. It provides a structured foundation for building and deploying web applications, offering developers tools and libraries to handle common tasks, such as routing, templating, and database interactions. Essentially, web frameworks streamline the development process by automating and abstracting repetitive tasks, allowing developers to focus on the unique aspects of their applications.</p><p data-block-key=\"63m0e\"><b>Core Components of a Web Framework</b></p><p data-block-key=\"45jfn\">Web frameworks typically include several core components that aid in the development process. These often encompass routing, which directs web traffic to the appropriate parts of an application based on the URL; templating, which allows for dynamic generation of HTML pages; and database interaction, which simplifies the process of reading from and writing to a database. By providing these essential components out of the box, web frameworks save developers significant time and effort.</p><p data-block-key=\"6bv5o\"><b>Types of Web Frameworks</b></p><p data-block-key=\"2sj7e\">Web frameworks come in various flavors, catering to different development needs. Full-stack frameworks, such as Django and Ruby on Rails, offer a comprehensive set of tools for both the front end and back end of web applications. These frameworks provide everything needed to build complex applications from scratch.</p><p data-block-key=\"eifgv\">Micro-frameworks, like Flask and Sinatra, are more lightweight. They offer the essentials required to get a basic application up and running but allow developers to pick and choose additional components as needed. This makes micro-frameworks ideal for smaller projects or applications that require more customization.</p><p data-block-key=\"c995q\">Client-side frameworks, such as Angular, React, and Vue, focus on building dynamic user interfaces. These frameworks manage the front-end logic and state, enabling the creation of responsive and interactive web applications. Unlike full-stack and micro-frameworks, client-side frameworks primarily handle the user experience, often working in tandem with back-end services.</p><p data-block-key=\"efpgf\"><b>Benefits of Using a Web Framework</b></p><p data-block-key=\"dp7dj\">Using a web framework offers numerous benefits. First and foremost, it simplifies the development process by providing pre-built components and tools. This reduces the amount of boilerplate code developers need to write and maintain.</p><p data-block-key=\"2qvc4\">Web frameworks also provide structure and organization to a project, encouraging developers to follow best practices and coding standards. This leads to more maintainable and scalable codebases.</p><p data-block-key=\"25qe7\">Additionally, many web frameworks come with built-in security features, protecting applications from common vulnerabilities such as SQL injection and cross-site scripting. By leveraging these security measures, developers can create more secure applications with less effort.</p><p data-block-key=\"e1pc3\"><b>Popular Web Frameworks and Their Use Cases</b></p><p data-block-key=\"nekb\">Several web frameworks have gained popularity due to their robust features and ease of use. Django, for instance, is known for its “batteries-included” approach, making it an excellent choice for developing complex, database-driven applications quickly. Flask, on the other hand, offers more flexibility and is preferred for smaller projects or applications requiring custom components.</p><p data-block-key=\"1gftt\">On the client side, React has become a favorite for building dynamic user interfaces due to its component-based architecture and virtual DOM. Angular and Vue are also widely used, each offering unique advantages in terms of structure and simplicity.</p><p data-block-key=\"5mfka\"><b>Conclusion</b></p><p data-block-key=\"3f0ga\">In summary, a web framework is an indispensable tool in modern web development, providing the structure, tools, and libraries needed to streamline the creation of web applications. By understanding the core components, types, and benefits of web frameworks, developers can choose the right one for their project needs, leading to more efficient and effective web development. Whether opting for a full-stack framework like Django or a client-side framework like React, the right choice can significantly enhance the development process and the quality of the final application.</p>",
+      "date": "2024-01-01",
+      "live": true,
+      "path": "0001000100010003",
+      "slug": "what-is-a-web-framework",
+      "depth": 4,
+      "intro": "In the rapidly evolving world of web development, the term “web framework” frequently surfaces. But what exactly is a web framework, and why is it pivotal in modern web development?",
+      "owner": 1,
+      "title": "What is a Web Framework?",
+      "locale": 1,
+      "locked": false,
+      "expired": false,
+      "alias_of": null,
+      "numchild": 0,
+      "url_path": "/home/blog/what-is-a-web-framework/",
+      "expire_at": null,
+      "locked_at": null,
+      "locked_by": null,
+      "seo_title": "",
+      "go_live_at": null,
+      "draft_title": "What is a Web Framework?",
+      "content_type": 44,
+      "live_revision": null,
+      "show_in_menus": false,
+      "latest_revision": null,
+      "translation_key": "b3d28b2b-4177-48a7-8e55-27c730907e74",
+      "last_published_at": null,
+      "first_published_at": null,
+      "search_description": "",
+      "wagtail_admin_comments": [],
+      "has_unpublished_changes": false,
+      "latest_revision_created_at": null
+    },
+    "approved_go_live_at": null
+  }
+},
+{
+  "model": "wagtailcore.revision",
+  "pk": 9,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "base_content_type": [
+      "wagtailcore",
+      "page"
+    ],
+    "object_id": "8",
+    "created_at": "2024-07-29T00:27:02.380Z",
+    "user": [
+      "brylie"
+    ],
+    "object_str": "Understanding Django as a Web Framework",
+    "content": {
+      "pk": 8,
+      "body": "<p data-block-key=\"871iy\"><b>Core Features of Django</b></p><p data-block-key=\"62apb\">At the heart of Django is the MVT (Model-View-Template) architecture, which promotes a clear separation of concerns. The ORM (Object-Relational Mapping) allows developers to interact with the database using Python code instead of SQL queries, simplifying data manipulation and migration tasks. Django’s built-in admin interface provides an out-of-the-box solution for managing application data, making it particularly useful for content-heavy sites. Additionally, Django includes comprehensive authentication and authorization systems and a robust middleware framework for processing requests and responses.</p><p data-block-key=\"9qsft\"><b>Advantages of Using Django</b></p><p data-block-key=\"1k9f1\">Django’s strengths lie in its ability to enable rapid development while maintaining high security standards. It’s designed to help developers take applications from concept to completion as quickly as possible. Its scalability ensures that applications can handle increased traffic and data volumes gracefully. Furthermore, Django’s extensive documentation and active community support make it accessible for developers of all skill levels.</p><p data-block-key=\"bdlq4\"><b>Common Use Cases for Django</b></p><p data-block-key=\"7lj1n\">Django excels in building content-heavy websites, e-commerce platforms, and social media applications. Notable examples of websites built with Django include Instagram, Pinterest, and The Washington Post, showcasing its capability to support high-traffic, feature-rich applications.</p><p data-block-key=\"3805r\"><b>Conclusion</b></p><p data-block-key=\"b8cir\">Django stands out as a powerful, versatile web framework that simplifies development while offering robust features and security. Its comprehensive ecosystem and supportive community make it a strong candidate for a wide range of web development projects. Whether building a simple blog or a complex web application, Django provides the tools and structure needed for success.</p>",
+      "date": "2024-02-01",
+      "live": true,
+      "path": "0001000100010004",
+      "slug": "understanding-django-as-a-web-framework",
+      "depth": 4,
+      "intro": "Django is a high-level web framework designed to facilitate rapid development and clean, pragmatic design. Developed in 2003 by the web team at the Lawrence Journal-World newspaper, Django was released publicly in 2005 and has since become one of the",
+      "owner": 1,
+      "title": "Understanding Django as a Web Framework",
+      "locale": 1,
+      "locked": false,
+      "expired": false,
+      "alias_of": null,
+      "numchild": 0,
+      "url_path": "/home/blog/understanding-django-as-a-web-framework/",
+      "expire_at": null,
+      "locked_at": null,
+      "locked_by": null,
+      "seo_title": "",
+      "go_live_at": null,
+      "draft_title": "Understanding Django as a Web Framework",
+      "content_type": 44,
+      "live_revision": null,
+      "show_in_menus": false,
+      "latest_revision": null,
+      "translation_key": "f769420c-1db1-4c97-a1a6-a77b12e0f88e",
+      "last_published_at": null,
+      "first_published_at": null,
+      "search_description": "",
+      "wagtail_admin_comments": [],
+      "has_unpublished_changes": false,
+      "latest_revision_created_at": null
+    },
+    "approved_go_live_at": null
+  }
+},
+{
+  "model": "wagtailcore.revision",
+  "pk": 10,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "base_content_type": [
+      "wagtailcore",
+      "page"
+    ],
+    "object_id": "9",
+    "created_at": "2024-07-29T00:33:26.194Z",
+    "user": [
+      "brylie"
+    ],
+    "object_str": "Comparing Web Frameworks and Libraries: Django vs. React and Vue",
+    "content": {
+      "pk": 9,
+      "body": "<p data-block-key=\"uk5sl\"> <b>Django: A Full-Stack Web Framework</b></p><p data-block-key=\"fng6a\">Django is a high-level Python web framework that includes numerous built-in features, making it a comprehensive solution for developing web applications. It follows the Model-View-Template (MVT) architecture and comes with an ORM (Object-Relational Mapping) system for database interactions, template rendering, routing, authentication, authorization, and caching. These “batteries-included” features streamline development, enabling developers to build secure and scalable applications rapidly. Django is particularly well-suited for content-heavy websites, e-commerce platforms, and complex applications requiring robust backend capabilities.</p><p data-block-key=\"9c0sj\"><b>React: A UI Library</b></p><p data-block-key=\"cvgfn\">React, developed by Facebook, is a JavaScript library focused on building user interfaces. It uses a component-based architecture, allowing developers to create reusable UI components. React handles the view layer and works by efficiently updating and rendering components when data changes, making it ideal for dynamic and interactive web applications. However, React is not a full-stack solution; it does not include built-in features like routing, ORM, or authentication, requiring additional libraries or frameworks to handle these aspects.</p><p data-block-key=\"kh74\"><b>Vue: A Progressive Framework</b></p><p data-block-key=\"6prbb\">Vue is a progressive JavaScript framework designed for building user interfaces and single-page applications. Like React, Vue employs a component-based architecture and excels in creating dynamic, reactive UIs. Vue is praised for its simplicity and ease of integration with other projects and libraries. While it provides more out-of-the-box features than React, such as a router and state management (via Vue Router and Vuex), it still focuses primarily on the front end and requires backend solutions for full-stack development.</p><p data-block-key=\"3e6s6\"><b>Key Distinctions</b></p><p data-block-key=\"ej68n\">The key distinction between Django and libraries like React and Vue lies in their scope. Django is a full-stack web framework that includes a wide range of features necessary for both frontend and backend development, providing a complete toolkit for building web applications. In contrast, React and Vue are primarily UI/DOM libraries and frameworks, focusing on creating rich user interfaces. They handle only the view layer, necessitating the use of additional tools and frameworks to manage routing, data handling, and backend logic.</p><p data-block-key=\"8umgm\"><b>Conclusion</b></p><p data-block-key=\"19r9e\">Choosing between Django, React, and Vue depends on the project requirements. For full-stack development with robust backend capabilities, Django is an excellent choice. For dynamic, responsive user interfaces, React and Vue offer powerful, flexible solutions that can be integrated with other tools to build comprehensive applications.</p>",
+      "date": "2024-03-01",
+      "live": true,
+      "path": "0001000100010005",
+      "slug": "comparing-web-frameworks-and-libraries-django-vs-react-and-vue",
+      "depth": 4,
+      "intro": "Web development often involves choosing the right tools to build efficient and scalable applications. Among these tools, Django, React, and Vue are popular choices, each serving different purposes.",
+      "owner": 1,
+      "title": "Comparing Web Frameworks and Libraries: Django vs. React and Vue",
+      "locale": 1,
+      "locked": false,
+      "expired": false,
+      "alias_of": null,
+      "numchild": 0,
+      "url_path": "/home/blog/comparing-web-frameworks-and-libraries-django-vs-react-and-vue/",
+      "expire_at": null,
+      "locked_at": null,
+      "locked_by": null,
+      "seo_title": "",
+      "go_live_at": null,
+      "draft_title": "Comparing Web Frameworks and Libraries: Django vs. React and Vue",
+      "content_type": 44,
+      "live_revision": null,
+      "show_in_menus": false,
+      "latest_revision": null,
+      "translation_key": "aace633b-00a6-49b0-bf10-245b1526759e",
+      "last_published_at": null,
+      "first_published_at": null,
+      "search_description": "",
+      "wagtail_admin_comments": [],
+      "has_unpublished_changes": false,
+      "latest_revision_created_at": null
+    },
+    "approved_go_live_at": null
+  }
+},
+{
+  "model": "wagtailcore.revision",
+  "pk": 11,
+  "fields": {
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "base_content_type": [
+      "wagtailcore",
+      "page"
+    ],
+    "object_id": "10",
+    "created_at": "2024-07-29T00:41:36.462Z",
+    "user": [
+      "brylie"
+    ],
+    "object_str": "What is a Vector Database?",
+    "content": {
+      "pk": 10,
+      "body": "<p data-block-key=\"dk3xi\"><b>Core Concepts of Vector Databases</b></p><p data-block-key=\"dtg7q\">At the heart of vector databases are vectors and embeddings. Vectors are numerical representations of data points, often derived from complex data like text, images, and audio through a process known as embedding. Embeddings are essentially high-dimensional vectors that capture the semantic meaning of the data. For instance, in Natural Language Processing (NLP), words or phrases are transformed into vectors that encapsulate their meaning and context.</p><p data-block-key=\"5vv9t\">Vector databases store and manage these high-dimensional vectors, enabling efficient retrieval and manipulation. Unlike traditional databases that rely on exact matching and structured queries, vector databases excel at similarity searches. They can quickly find the closest matches to a given vector, which is crucial for applications like image recognition, recommendation systems, and more.</p><p data-block-key=\"49gfo\"><b>How Vector Databases Work</b></p><p data-block-key=\"c8a8r\">Vector databases use advanced indexing techniques to facilitate fast and efficient similarity searches. When a query is made, the database compares the query vector against the stored vectors to find the most similar ones. This is typically done using metrics like cosine similarity or Euclidean distance.</p><p data-block-key=\"1cudf\">In contrast to traditional relational databases that use tables, rows, and columns to organize data, vector databases focus on the geometric relationships between data points. For example, a vector database might be used to find images similar to a given image by comparing their embeddings, whereas a relational database would require metadata or tags for such a search.</p><p data-block-key=\"f1pao\"><b>Applications and Use Cases</b></p><p data-block-key=\"8dlv0\">Vector databases have a wide range of applications across various fields:</p><ul><li data-block-key=\"9a67h\"> <b>Natural Language Processing (NLP):</b> Used for tasks like semantic search, sentiment analysis, and language translation by comparing text embeddings.</li><li data-block-key=\"bon71\"> <b>Image and Video Recognition:</b> Helps in identifying similar images or videos by comparing visual features encoded as vectors.</li><li data-block-key=\"4ku4m\"> <b>Recommendation Systems:</b> Provides personalized recommendations by finding users or items similar to a given user or item based on their embeddings.</li><li data-block-key=\"4lrqj\"> <b>Other Fields:</b> Include audio recognition, fraud detection, and more.</li></ul><p data-block-key=\"8n9er\"><b>Advantages of Vector Databases</b></p><p data-block-key=\"83ah8\">One of the primary advantages of vector databases is their high performance in handling large datasets. They are designed to perform similarity searches efficiently, even with millions of vectors, making them ideal for big data applications.</p><p data-block-key=\"90ei1\">Vector databases also offer excellent scalability and flexibility. They can handle dynamic and unstructured data, adapting to various data types and usage patterns. This flexibility is crucial for modern applications that need to process and analyze diverse data sources in real time.</p><p data-block-key=\"6kvi8\"><b>Popular Vector Databases and Tools</b></p><p data-block-key=\"7voat\">Several vector databases and tools have gained popularity for their capabilities:</p><ul><li data-block-key=\"d6lqg\"> <b>PGVector:</b> An extension for PostgreSQL that adds support for vector similarity searches.</li><li data-block-key=\"b9g3b\"> <b>Faiss:</b> A library developed by Facebook AI Research for efficient similarity search and clustering of dense vectors.</li><li data-block-key=\"98bt5\"> <b>Milvus:</b> An open-source vector database designed for scalable similarity search and analytics.</li></ul><p data-block-key=\"dne5t\">Each of these tools has unique features tailored to different use cases and performance requirements.</p><p data-block-key=\"fb5ut\"><b>Challenges and Considerations</b></p><p data-block-key=\"c1k17\">Implementing a vector database comes with its own set of challenges. Ensuring data quality and consistency can be complex, especially with dynamic and high-dimensional data. Additionally, the choice of indexing and similarity metrics can significantly impact performance and accuracy, requiring careful consideration based on the specific application.</p><p data-block-key=\"68uso\"><b>Conclusion</b></p><p data-block-key=\"ao65q\">Vector databases represent a significant advancement in data storage and retrieval, offering unparalleled efficiency and performance for similarity searches. Their ability to handle high-dimensional data makes them indispensable for modern applications in NLP, image recognition, recommendation systems, and more. As the field continues to evolve, vector databases will likely play an increasingly crucial role in harnessing the power of big data and machine learning.</p>",
+      "date": "2024-03-01",
+      "live": true,
+      "path": "0001000100010006",
+      "slug": "what-is-a-vector-database",
+      "depth": 4,
+      "intro": "In the era of big data and advanced machine learning, the need for efficient and powerful data retrieval systems has become more pressing than ever. This is where vector databases come into play, offering unique capabilities that traditional database",
+      "owner": 1,
+      "title": "What is a Vector Database?",
+      "locale": 1,
+      "locked": false,
+      "expired": false,
+      "alias_of": null,
+      "numchild": 0,
+      "url_path": "/home/blog/what-is-a-vector-database/",
+      "expire_at": null,
+      "locked_at": null,
+      "locked_by": null,
+      "seo_title": "",
+      "go_live_at": null,
+      "draft_title": "What is a Vector Database?",
+      "content_type": 44,
+      "live_revision": null,
+      "show_in_menus": false,
+      "latest_revision": null,
+      "translation_key": "ba0327f5-1238-4200-b5b4-f6592eccdfac",
+      "last_published_at": null,
+      "first_published_at": null,
+      "search_description": "",
+      "wagtail_admin_comments": [],
+      "has_unpublished_changes": false,
+      "latest_revision_created_at": null
+    },
+    "approved_go_live_at": null
+  }
+},
+{
+  "model": "wagtailcore.page",
+  "pk": 1,
+  "fields": {
+    "path": "0001",
+    "depth": 1,
+    "numchild": 1,
+    "translation_key": "03da85a1-a559-42f7-8156-75dc703c46b3",
+    "locale": 1,
+    "latest_revision": null,
+    "live": true,
+    "has_unpublished_changes": false,
+    "first_published_at": null,
+    "last_published_at": null,
+    "live_revision": null,
+    "go_live_at": null,
+    "expire_at": null,
+    "expired": false,
+    "locked": false,
+    "locked_at": null,
+    "locked_by": null,
+    "title": "Root",
+    "draft_title": "Root",
+    "slug": "root",
+    "content_type": [
+      "wagtailcore",
+      "page"
+    ],
+    "url_path": "/",
+    "owner": null,
+    "seo_title": "",
+    "show_in_menus": false,
+    "search_description": "",
+    "latest_revision_created_at": null,
+    "alias_of": null
+  }
+},
+{
+  "model": "wagtailcore.page",
+  "pk": 3,
+  "fields": {
+    "path": "00010001",
+    "depth": 2,
+    "numchild": 1,
+    "translation_key": "1109c2c6-6ed5-4a0a-af59-d60b30121d0d",
+    "locale": 1,
+    "latest_revision": 3,
+    "live": true,
+    "has_unpublished_changes": false,
+    "first_published_at": "2024-07-28T17:02:03.888Z",
+    "last_published_at": "2024-07-28T17:05:41.137Z",
+    "live_revision": 3,
+    "go_live_at": null,
+    "expire_at": null,
+    "expired": false,
+    "locked": false,
+    "locked_at": null,
+    "locked_by": null,
+    "title": "Welcome",
+    "draft_title": "Welcome",
+    "slug": "home",
+    "content_type": [
+      "home",
+      "homepage"
+    ],
+    "url_path": "/home/",
+    "owner": null,
+    "seo_title": "",
+    "show_in_menus": false,
+    "search_description": "",
+    "latest_revision_created_at": "2024-07-28T17:05:41.119Z",
+    "alias_of": null
+  }
+},
+{
+  "model": "wagtailcore.page",
+  "pk": 4,
+  "fields": {
+    "path": "000100010001",
+    "depth": 3,
+    "numchild": 4,
+    "translation_key": "92090ed6-1752-46d8-b6dc-47df917f7e03",
+    "locale": 1,
+    "latest_revision": 4,
+    "live": true,
+    "has_unpublished_changes": false,
+    "first_published_at": "2024-07-28T17:16:28.070Z",
+    "last_published_at": "2024-07-28T17:16:28.070Z",
+    "live_revision": 4,
+    "go_live_at": null,
+    "expire_at": null,
+    "expired": false,
+    "locked": false,
+    "locked_at": null,
+    "locked_by": null,
+    "title": "Blog",
+    "draft_title": "Blog",
+    "slug": "blog",
+    "content_type": [
+      "blog",
+      "blogindexpage"
+    ],
+    "url_path": "/home/blog/",
+    "owner": [
+      "brylie"
+    ],
+    "seo_title": "",
+    "show_in_menus": false,
+    "search_description": "",
+    "latest_revision_created_at": "2024-07-28T17:16:28.052Z",
+    "alias_of": null
+  }
+},
+{
+  "model": "wagtailcore.page",
+  "pk": 7,
+  "fields": {
+    "path": "0001000100010003",
+    "depth": 4,
+    "numchild": 0,
+    "translation_key": "b3d28b2b-4177-48a7-8e55-27c730907e74",
+    "locale": 1,
+    "latest_revision": 8,
+    "live": true,
+    "has_unpublished_changes": false,
+    "first_published_at": "2024-07-29T00:12:55.299Z",
+    "last_published_at": "2024-07-29T00:12:55.299Z",
+    "live_revision": 8,
+    "go_live_at": null,
+    "expire_at": null,
+    "expired": false,
+    "locked": false,
+    "locked_at": null,
+    "locked_by": null,
+    "title": "What is a Web Framework?",
+    "draft_title": "What is a Web Framework?",
+    "slug": "what-is-a-web-framework",
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "url_path": "/home/blog/what-is-a-web-framework/",
+    "owner": [
+      "brylie"
+    ],
+    "seo_title": "",
+    "show_in_menus": false,
+    "search_description": "",
+    "latest_revision_created_at": "2024-07-29T00:12:55.283Z",
+    "alias_of": null
+  }
+},
+{
+  "model": "wagtailcore.page",
+  "pk": 8,
+  "fields": {
+    "path": "0001000100010004",
+    "depth": 4,
+    "numchild": 0,
+    "translation_key": "f769420c-1db1-4c97-a1a6-a77b12e0f88e",
+    "locale": 1,
+    "latest_revision": 9,
+    "live": true,
+    "has_unpublished_changes": false,
+    "first_published_at": "2024-07-29T00:27:02.395Z",
+    "last_published_at": "2024-07-29T00:27:02.395Z",
+    "live_revision": 9,
+    "go_live_at": null,
+    "expire_at": null,
+    "expired": false,
+    "locked": false,
+    "locked_at": null,
+    "locked_by": null,
+    "title": "Understanding Django as a Web Framework",
+    "draft_title": "Understanding Django as a Web Framework",
+    "slug": "understanding-django-as-a-web-framework",
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "url_path": "/home/blog/understanding-django-as-a-web-framework/",
+    "owner": [
+      "brylie"
+    ],
+    "seo_title": "",
+    "show_in_menus": false,
+    "search_description": "",
+    "latest_revision_created_at": "2024-07-29T00:27:02.380Z",
+    "alias_of": null
+  }
+},
+{
+  "model": "wagtailcore.page",
+  "pk": 9,
+  "fields": {
+    "path": "0001000100010005",
+    "depth": 4,
+    "numchild": 0,
+    "translation_key": "aace633b-00a6-49b0-bf10-245b1526759e",
+    "locale": 1,
+    "latest_revision": 10,
+    "live": true,
+    "has_unpublished_changes": false,
+    "first_published_at": "2024-07-29T00:33:26.209Z",
+    "last_published_at": "2024-07-29T00:33:26.209Z",
+    "live_revision": 10,
+    "go_live_at": null,
+    "expire_at": null,
+    "expired": false,
+    "locked": false,
+    "locked_at": null,
+    "locked_by": null,
+    "title": "Comparing Web Frameworks and Libraries: Django vs. React and Vue",
+    "draft_title": "Comparing Web Frameworks and Libraries: Django vs. React and Vue",
+    "slug": "comparing-web-frameworks-and-libraries-django-vs-react-and-vue",
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "url_path": "/home/blog/comparing-web-frameworks-and-libraries-django-vs-react-and-vue/",
+    "owner": [
+      "brylie"
+    ],
+    "seo_title": "",
+    "show_in_menus": false,
+    "search_description": "",
+    "latest_revision_created_at": "2024-07-29T00:33:26.194Z",
+    "alias_of": null
+  }
+},
+{
+  "model": "wagtailcore.page",
+  "pk": 10,
+  "fields": {
+    "path": "0001000100010006",
+    "depth": 4,
+    "numchild": 0,
+    "translation_key": "ba0327f5-1238-4200-b5b4-f6592eccdfac",
+    "locale": 1,
+    "latest_revision": 11,
+    "live": true,
+    "has_unpublished_changes": false,
+    "first_published_at": "2024-07-29T00:41:36.477Z",
+    "last_published_at": "2024-07-29T00:41:36.477Z",
+    "live_revision": 11,
+    "go_live_at": null,
+    "expire_at": null,
+    "expired": false,
+    "locked": false,
+    "locked_at": null,
+    "locked_by": null,
+    "title": "What is a Vector Database?",
+    "draft_title": "What is a Vector Database?",
+    "slug": "what-is-a-vector-database",
+    "content_type": [
+      "blog",
+      "blogpage"
+    ],
+    "url_path": "/home/blog/what-is-a-vector-database/",
+    "owner": [
+      "brylie"
+    ],
+    "seo_title": "",
+    "show_in_menus": false,
+    "search_description": "",
+    "latest_revision_created_at": "2024-07-29T00:41:36.462Z",
+    "alias_of": null
+  }
+},
+{
+  "model": "wagtailusers.userprofile",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "brylie"
+    ],
+    "submitted_notifications": true,
+    "approved_notifications": true,
+    "rejected_notifications": true,
+    "updated_comments_notifications": true,
+    "preferred_language": "",
+    "current_time_zone": "",
+    "avatar": "",
+    "dismissibles": {
+      "help": true,
+      "editor-guide": true,
+      "whats-new-in-wagtail-6.1": true
+    },
+    "theme": "system",
+    "density": "default"
+  }
+},
+{
+  "model": "home.homepage",
+  "pk": 3,
+  "fields": {
+    "body": "<h2 data-block-key=\"e2wy8\">Moi!</h2><p data-block-key=\"5cpad\">Hello world, from the home page!</p>"
+  }
+},
+{
+  "model": "blog.blogpage",
+  "pk": 7,
+  "fields": {
+    "date": "2024-01-01",
+    "intro": "In the rapidly evolving world of web development, the term “web framework” frequently surfaces. But what exactly is a web framework, and why is it pivotal in modern web development?",
+    "body": "<p data-block-key=\"n8qnx\">At its core, a web framework is a software framework designed to simplify the development of web applications. It provides a structured foundation for building and deploying web applications, offering developers tools and libraries to handle common tasks, such as routing, templating, and database interactions. Essentially, web frameworks streamline the development process by automating and abstracting repetitive tasks, allowing developers to focus on the unique aspects of their applications.</p><p data-block-key=\"63m0e\"><b>Core Components of a Web Framework</b></p><p data-block-key=\"45jfn\">Web frameworks typically include several core components that aid in the development process. These often encompass routing, which directs web traffic to the appropriate parts of an application based on the URL; templating, which allows for dynamic generation of HTML pages; and database interaction, which simplifies the process of reading from and writing to a database. By providing these essential components out of the box, web frameworks save developers significant time and effort.</p><p data-block-key=\"6bv5o\"><b>Types of Web Frameworks</b></p><p data-block-key=\"2sj7e\">Web frameworks come in various flavors, catering to different development needs. Full-stack frameworks, such as Django and Ruby on Rails, offer a comprehensive set of tools for both the front end and back end of web applications. These frameworks provide everything needed to build complex applications from scratch.</p><p data-block-key=\"eifgv\">Micro-frameworks, like Flask and Sinatra, are more lightweight. They offer the essentials required to get a basic application up and running but allow developers to pick and choose additional components as needed. This makes micro-frameworks ideal for smaller projects or applications that require more customization.</p><p data-block-key=\"c995q\">Client-side frameworks, such as Angular, React, and Vue, focus on building dynamic user interfaces. These frameworks manage the front-end logic and state, enabling the creation of responsive and interactive web applications. Unlike full-stack and micro-frameworks, client-side frameworks primarily handle the user experience, often working in tandem with back-end services.</p><p data-block-key=\"efpgf\"><b>Benefits of Using a Web Framework</b></p><p data-block-key=\"dp7dj\">Using a web framework offers numerous benefits. First and foremost, it simplifies the development process by providing pre-built components and tools. This reduces the amount of boilerplate code developers need to write and maintain.</p><p data-block-key=\"2qvc4\">Web frameworks also provide structure and organization to a project, encouraging developers to follow best practices and coding standards. This leads to more maintainable and scalable codebases.</p><p data-block-key=\"25qe7\">Additionally, many web frameworks come with built-in security features, protecting applications from common vulnerabilities such as SQL injection and cross-site scripting. By leveraging these security measures, developers can create more secure applications with less effort.</p><p data-block-key=\"e1pc3\"><b>Popular Web Frameworks and Their Use Cases</b></p><p data-block-key=\"nekb\">Several web frameworks have gained popularity due to their robust features and ease of use. Django, for instance, is known for its “batteries-included” approach, making it an excellent choice for developing complex, database-driven applications quickly. Flask, on the other hand, offers more flexibility and is preferred for smaller projects or applications requiring custom components.</p><p data-block-key=\"1gftt\">On the client side, React has become a favorite for building dynamic user interfaces due to its component-based architecture and virtual DOM. Angular and Vue are also widely used, each offering unique advantages in terms of structure and simplicity.</p><p data-block-key=\"5mfka\"><b>Conclusion</b></p><p data-block-key=\"3f0ga\">In summary, a web framework is an indispensable tool in modern web development, providing the structure, tools, and libraries needed to streamline the creation of web applications. By understanding the core components, types, and benefits of web frameworks, developers can choose the right one for their project needs, leading to more efficient and effective web development. Whether opting for a full-stack framework like Django or a client-side framework like React, the right choice can significantly enhance the development process and the quality of the final application.</p>"
+  }
+},
+{
+  "model": "blog.blogpage",
+  "pk": 8,
+  "fields": {
+    "date": "2024-02-01",
+    "intro": "Django is a high-level web framework designed to facilitate rapid development and clean, pragmatic design. Developed in 2003 by the web team at the Lawrence Journal-World newspaper, Django was released publicly in 2005 and has since become one of the",
+    "body": "<p data-block-key=\"871iy\"><b>Core Features of Django</b></p><p data-block-key=\"62apb\">At the heart of Django is the MVT (Model-View-Template) architecture, which promotes a clear separation of concerns. The ORM (Object-Relational Mapping) allows developers to interact with the database using Python code instead of SQL queries, simplifying data manipulation and migration tasks. Django’s built-in admin interface provides an out-of-the-box solution for managing application data, making it particularly useful for content-heavy sites. Additionally, Django includes comprehensive authentication and authorization systems and a robust middleware framework for processing requests and responses.</p><p data-block-key=\"9qsft\"><b>Advantages of Using Django</b></p><p data-block-key=\"1k9f1\">Django’s strengths lie in its ability to enable rapid development while maintaining high security standards. It’s designed to help developers take applications from concept to completion as quickly as possible. Its scalability ensures that applications can handle increased traffic and data volumes gracefully. Furthermore, Django’s extensive documentation and active community support make it accessible for developers of all skill levels.</p><p data-block-key=\"bdlq4\"><b>Common Use Cases for Django</b></p><p data-block-key=\"7lj1n\">Django excels in building content-heavy websites, e-commerce platforms, and social media applications. Notable examples of websites built with Django include Instagram, Pinterest, and The Washington Post, showcasing its capability to support high-traffic, feature-rich applications.</p><p data-block-key=\"3805r\"><b>Conclusion</b></p><p data-block-key=\"b8cir\">Django stands out as a powerful, versatile web framework that simplifies development while offering robust features and security. Its comprehensive ecosystem and supportive community make it a strong candidate for a wide range of web development projects. Whether building a simple blog or a complex web application, Django provides the tools and structure needed for success.</p>"
+  }
+},
+{
+  "model": "blog.blogpage",
+  "pk": 9,
+  "fields": {
+    "date": "2024-03-01",
+    "intro": "Web development often involves choosing the right tools to build efficient and scalable applications. Among these tools, Django, React, and Vue are popular choices, each serving different purposes.",
+    "body": "<p data-block-key=\"uk5sl\"> <b>Django: A Full-Stack Web Framework</b></p><p data-block-key=\"fng6a\">Django is a high-level Python web framework that includes numerous built-in features, making it a comprehensive solution for developing web applications. It follows the Model-View-Template (MVT) architecture and comes with an ORM (Object-Relational Mapping) system for database interactions, template rendering, routing, authentication, authorization, and caching. These “batteries-included” features streamline development, enabling developers to build secure and scalable applications rapidly. Django is particularly well-suited for content-heavy websites, e-commerce platforms, and complex applications requiring robust backend capabilities.</p><p data-block-key=\"9c0sj\"><b>React: A UI Library</b></p><p data-block-key=\"cvgfn\">React, developed by Facebook, is a JavaScript library focused on building user interfaces. It uses a component-based architecture, allowing developers to create reusable UI components. React handles the view layer and works by efficiently updating and rendering components when data changes, making it ideal for dynamic and interactive web applications. However, React is not a full-stack solution; it does not include built-in features like routing, ORM, or authentication, requiring additional libraries or frameworks to handle these aspects.</p><p data-block-key=\"kh74\"><b>Vue: A Progressive Framework</b></p><p data-block-key=\"6prbb\">Vue is a progressive JavaScript framework designed for building user interfaces and single-page applications. Like React, Vue employs a component-based architecture and excels in creating dynamic, reactive UIs. Vue is praised for its simplicity and ease of integration with other projects and libraries. While it provides more out-of-the-box features than React, such as a router and state management (via Vue Router and Vuex), it still focuses primarily on the front end and requires backend solutions for full-stack development.</p><p data-block-key=\"3e6s6\"><b>Key Distinctions</b></p><p data-block-key=\"ej68n\">The key distinction between Django and libraries like React and Vue lies in their scope. Django is a full-stack web framework that includes a wide range of features necessary for both frontend and backend development, providing a complete toolkit for building web applications. In contrast, React and Vue are primarily UI/DOM libraries and frameworks, focusing on creating rich user interfaces. They handle only the view layer, necessitating the use of additional tools and frameworks to manage routing, data handling, and backend logic.</p><p data-block-key=\"8umgm\"><b>Conclusion</b></p><p data-block-key=\"19r9e\">Choosing between Django, React, and Vue depends on the project requirements. For full-stack development with robust backend capabilities, Django is an excellent choice. For dynamic, responsive user interfaces, React and Vue offer powerful, flexible solutions that can be integrated with other tools to build comprehensive applications.</p>"
+  }
+},
+{
+  "model": "blog.blogpage",
+  "pk": 10,
+  "fields": {
+    "date": "2024-03-01",
+    "intro": "In the era of big data and advanced machine learning, the need for efficient and powerful data retrieval systems has become more pressing than ever. This is where vector databases come into play, offering unique capabilities that traditional database",
+    "body": "<p data-block-key=\"dk3xi\"><b>Core Concepts of Vector Databases</b></p><p data-block-key=\"dtg7q\">At the heart of vector databases are vectors and embeddings. Vectors are numerical representations of data points, often derived from complex data like text, images, and audio through a process known as embedding. Embeddings are essentially high-dimensional vectors that capture the semantic meaning of the data. For instance, in Natural Language Processing (NLP), words or phrases are transformed into vectors that encapsulate their meaning and context.</p><p data-block-key=\"5vv9t\">Vector databases store and manage these high-dimensional vectors, enabling efficient retrieval and manipulation. Unlike traditional databases that rely on exact matching and structured queries, vector databases excel at similarity searches. They can quickly find the closest matches to a given vector, which is crucial for applications like image recognition, recommendation systems, and more.</p><p data-block-key=\"49gfo\"><b>How Vector Databases Work</b></p><p data-block-key=\"c8a8r\">Vector databases use advanced indexing techniques to facilitate fast and efficient similarity searches. When a query is made, the database compares the query vector against the stored vectors to find the most similar ones. This is typically done using metrics like cosine similarity or Euclidean distance.</p><p data-block-key=\"1cudf\">In contrast to traditional relational databases that use tables, rows, and columns to organize data, vector databases focus on the geometric relationships between data points. For example, a vector database might be used to find images similar to a given image by comparing their embeddings, whereas a relational database would require metadata or tags for such a search.</p><p data-block-key=\"f1pao\"><b>Applications and Use Cases</b></p><p data-block-key=\"8dlv0\">Vector databases have a wide range of applications across various fields:</p><ul><li data-block-key=\"9a67h\"> <b>Natural Language Processing (NLP):</b> Used for tasks like semantic search, sentiment analysis, and language translation by comparing text embeddings.</li><li data-block-key=\"bon71\"> <b>Image and Video Recognition:</b> Helps in identifying similar images or videos by comparing visual features encoded as vectors.</li><li data-block-key=\"4ku4m\"> <b>Recommendation Systems:</b> Provides personalized recommendations by finding users or items similar to a given user or item based on their embeddings.</li><li data-block-key=\"4lrqj\"> <b>Other Fields:</b> Include audio recognition, fraud detection, and more.</li></ul><p data-block-key=\"8n9er\"><b>Advantages of Vector Databases</b></p><p data-block-key=\"83ah8\">One of the primary advantages of vector databases is their high performance in handling large datasets. They are designed to perform similarity searches efficiently, even with millions of vectors, making them ideal for big data applications.</p><p data-block-key=\"90ei1\">Vector databases also offer excellent scalability and flexibility. They can handle dynamic and unstructured data, adapting to various data types and usage patterns. This flexibility is crucial for modern applications that need to process and analyze diverse data sources in real time.</p><p data-block-key=\"6kvi8\"><b>Popular Vector Databases and Tools</b></p><p data-block-key=\"7voat\">Several vector databases and tools have gained popularity for their capabilities:</p><ul><li data-block-key=\"d6lqg\"> <b>PGVector:</b> An extension for PostgreSQL that adds support for vector similarity searches.</li><li data-block-key=\"b9g3b\"> <b>Faiss:</b> A library developed by Facebook AI Research for efficient similarity search and clustering of dense vectors.</li><li data-block-key=\"98bt5\"> <b>Milvus:</b> An open-source vector database designed for scalable similarity search and analytics.</li></ul><p data-block-key=\"dne5t\">Each of these tools has unique features tailored to different use cases and performance requirements.</p><p data-block-key=\"fb5ut\"><b>Challenges and Considerations</b></p><p data-block-key=\"c1k17\">Implementing a vector database comes with its own set of challenges. Ensuring data quality and consistency can be complex, especially with dynamic and high-dimensional data. Additionally, the choice of indexing and similarity metrics can significantly impact performance and accuracy, requiring careful consideration based on the specific application.</p><p data-block-key=\"68uso\"><b>Conclusion</b></p><p data-block-key=\"ao65q\">Vector databases represent a significant advancement in data storage and retrieval, offering unparalleled efficiency and performance for similarity searches. Their ability to handle high-dimensional data makes them indispensable for modern applications in NLP, image recognition, recommendation systems, and more. As the field continues to evolve, vector databases will likely play an increasingly crucial role in harnessing the power of big data and machine learning.</p>"
+  }
+},
+{
+  "model": "blog.blogindexpage",
+  "pk": 4,
+  "fields": {
+    "intro": "<p data-block-key=\"zbjjq\">Welcome to the blog.</p>"
+  }
+}
+]
