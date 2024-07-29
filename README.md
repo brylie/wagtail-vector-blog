@@ -5,6 +5,7 @@ This project aims to create a simple blog using Wagtail CMS with integrated vect
 ## Architecture
 
 ### 1. Core Components
+
 - Wagtail CMS: Provides the content management system for creating and managing blog posts.
 - Django: The web framework underlying Wagtail.
 - PostgreSQL: The primary database for storing blog content and metadata.
@@ -12,6 +13,7 @@ This project aims to create a simple blog using Wagtail CMS with integrated vect
 - Wagtail Vector Search: A plugin to integrate vector search capabilities with Wagtail.
 
 ### 2. Data Flow
+
 1. Content Creation/Editing:
    - Authors create or edit blog posts using the Wagtail admin interface.
    - On save, the blog post content is processed to create vector embeddings.
@@ -24,18 +26,21 @@ This project aims to create a simple blog using Wagtail CMS with integrated vect
    - Results are returned and displayed to the user.
 
 ### 3. Key Features
+
 - Automatic embedding generation for blog posts.
 - Real-time updating of embeddings when content is edited.
 - Semantic search capabilities using vector similarity.
 - Standard Wagtail CMS features for content management.
 
 ### 4. Technical Stack
+
 - Backend: Python, Django, Wagtail
 - Database: PostgreSQL with pgvector extension
 - Search: Wagtail Vector Search plugin
 - Frontend: Wagtail templates (HTML, CSS, JavaScript)
 
 ### 5. Development Phases
+
 1. Set up basic Wagtail project
 2. Integrate PostgreSQL with pgvector
 3. Install and configure Wagtail Vector Search plugin
@@ -45,6 +50,7 @@ This project aims to create a simple blog using Wagtail CMS with integrated vect
 7. Deployment
 
 ## Next Steps
+
 1. Set up the development environment
 2. Create a new Wagtail project
 3. Configure PostgreSQL with pgvector
