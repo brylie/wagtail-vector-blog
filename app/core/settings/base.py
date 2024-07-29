@@ -14,6 +14,9 @@ https://docs.djangoproject.com/en/5.0/ref/settings/
 import os
 
 import dj_database_url
+from dotenv import load_dotenv
+
+load_dotenv()
 
 PROJECT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE_DIR = os.path.dirname(PROJECT_DIR)
@@ -48,6 +51,8 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "wagtail_vector_index",
+    "wagtail_vector_index.storage.pgvector",
 ]
 
 MIDDLEWARE = [
@@ -88,7 +93,9 @@ WSGI_APPLICATION = "core.wsgi.application"
 # https://docs.djangoproject.com/en/5.0/ref/settings/#databases
 
 DATABASES = {
-    "default": dj_database_url.config(default=os.environ.get("DB_URL"))
+    "default": dj_database_url.config(
+        default=os.environ.get("DB_URL"),
+    ),
 }
 
 
@@ -189,3 +196,23 @@ WAGTAILDOCS_EXTENSIONS = [
     "xlsx",
     "zip",
 ]
+
+
+WAGTAIL_VECTOR_INDEX = {
+    "CHAT_BACKENDS": {
+        "default": {
+            "CLASS": "wagtail_vector_index.ai_utils.backends.litellm.LiteLLMChatBackend",
+            "CONFIG": {
+                "MODEL_ID": "gpt-3.5-turbo",
+            },
+        },
+    },
+    "EMBEDDING_BACKENDS": {
+        "default": {
+            "CLASS": "wagtail_vector_index.ai_utils.backends.litellm.LiteLLMEmbeddingBackend",
+            "CONFIG": {
+                "MODEL_ID": "text-embedding-ada-002",
+            },
+        }
+    },
+}
