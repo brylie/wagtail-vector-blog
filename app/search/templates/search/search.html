@@ -24,7 +24,7 @@
                     <ul class="list-unstyled">
                     {% for result in default_results %}
                         <li class="mb-3">
-                            <h4><a href="{% pageurl result %}">{{ result }}</a></h4>
+                            <h3 class="h4"><a href="{% pageurl result %}">{{ result }}</a></h3 class="h4">
                             {% if result.search_description %}
                                 <p>{{ result.search_description }}</p>
                             {% endif %}
@@ -42,7 +42,7 @@
                     <ul class="list-unstyled">
                     {% for result in vector_results %}
                         <li class="mb-3">
-                            <h4><a href="{% pageurl result %}">{{ result }}</a></h4>
+                            <h3 class="h4"><a href="{% pageurl result %}">{{ result }}</a></h3 class="h4">
                             {% if result.search_description %}
                                 <p>{{ result.search_description }}</p>
                             {% endif %}

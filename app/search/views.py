@@ -18,7 +18,6 @@ def search(request):
     if search_query:
         vector_results = BlogPage.vector_index.search(
             search_query,
-            limit=2,
         )
     else:
         vector_results = BlogPage.objects.none()
