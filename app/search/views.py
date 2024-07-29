@@ -1,46 +1,51 @@
 from django.core.paginator import EmptyPage, PageNotAnInteger, Paginator
 from django.template.response import TemplateResponse
-
 from wagtail.models import Page
-
-# To enable logging of search queries for use with the "Promoted search results" module
-# <https://docs.wagtail.org/en/stable/reference/contrib/searchpromotions.html>
-# uncomment the following line and the lines indicated in the search function
-# (after adding wagtail.contrib.search_promotions to INSTALLED_APPS):
-
-# from wagtail.contrib.search_promotions.models import Query
+from blog.models import BlogPage
 
 
 def search(request):
     search_query = request.GET.get("query", None)
     page = request.GET.get("page", 1)
 
-    # Search
+    # Default Search
     if search_query:
-        search_results = Page.objects.live().search(search_query)
-
-        # To log this query for use with the "Promoted search results" module:
-
-        # query = Query.get(search_query)
-        # query.add_hit()
-
+        default_results = Page.objects.live().search(search_query)
     else:
-        search_results = Page.objects.none()
+        default_results = Page.objects.none()
 
-    # Pagination
-    paginator = Paginator(search_results, 10)
+    # Vector Search
+    if search_query:
+        vector_results = BlogPage.vector_index.search(
+            search_query,
+        )
+    else:
+        vector_results = BlogPage.objects.none()
+
+    # Pagination for default results
+    default_paginator = Paginator(default_results, 5)
     try:
-        search_results = paginator.page(page)
+        default_results = default_paginator.page(page)
     except PageNotAnInteger:
-        search_results = paginator.page(1)
+        default_results = default_paginator.page(1)
     except EmptyPage:
-        search_results = paginator.page(paginator.num_pages)
+        default_results = default_paginator.page(default_paginator.num_pages)
+
+    # Pagination for vector results
+    vector_paginator = Paginator(vector_results, 5)
+    try:
+        vector_results = vector_paginator.page(page)
+    except PageNotAnInteger:
+        vector_results = vector_paginator.page(1)
+    except EmptyPage:
+        vector_results = vector_paginator.page(vector_paginator.num_pages)
 
     return TemplateResponse(
         request,
         "search/search.html",
         {
             "search_query": search_query,
-            "search_results": search_results,
+            "default_results": default_results,
+            "vector_results": vector_results,
         },
     )
